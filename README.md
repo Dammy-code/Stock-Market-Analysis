@@ -10,10 +10,15 @@ Methodology:
 The project utilized a statistical approach, employing descriptive analysis and linear regression techniques. Data analysis and visualization were conducted exclusively in Microsoft Excel.
 
 Key Focus Areas:
+
 Stock Price: Assessing the overall price dynamics of the stocks.
+
 Open Price: Examining the starting value of stocks for each company.
+
 Closing Price: Evaluating the final value of stocks at the end of trading sessions.
+
 Volume: Analysing the total number of shares traded during a specific period.
+
 Comparison with S&P 500: Evaluating the relative performance of the three companies against the broader market.
 
 Outcome:
