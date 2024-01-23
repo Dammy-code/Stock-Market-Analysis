@@ -1,3 +1,5 @@
+Project Overview: Comparing Stock Market Performance
+
 Objective:
 The objective of this project was to conduct a comprehensive analysis of the stock market performance of three major US companies from 2018 to 2023—providing valuable insights for potential investors looking to make informed decisions.
 
